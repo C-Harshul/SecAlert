@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "718800755531",
+    "firebase_url": "https://security-9a9a0.firebaseio.com",
+    "project_id": "security-9a9a0",
+    "storage_bucket": "security-9a9a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718800755531:android:8f40122986e6f58c3726ce",
+        "android_client_info": {
+          "package_name": "com.example.securityalert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718800755531-giq70r4l9gs20a3i6nh539rm9sdh9ipn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWtt_sqJmTObgT1ec_98idnYQedFHC_y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718800755531-giq70r4l9gs20a3i6nh539rm9sdh9ipn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
